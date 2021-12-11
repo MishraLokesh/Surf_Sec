@@ -1,4 +1,5 @@
-# SurfSecurity
+# Surf_Sec
+
 Security system to prevent Shoulder Surfing Attacks.
 
 REQUIREMENTS:
@@ -37,7 +38,4 @@ RUN THE PROJECT
   B. python manage.py migrate
   C. python manage.py runserver
 3. Open browser and enter the url --> localhost:8000/login
-
-<- THIS IS ONLY DEMO. CERTAIN VERIFICATION AND AUTHENTICATION SCEHEMES ARE STILL NEEDED TO BE DONE --> <br>
-<< A word file is given in the repo explaining the Algorithm . Only for Educational Purpose >>
  
